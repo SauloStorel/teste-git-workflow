@@ -1,2 +1,7 @@
-# teste-git-workflow
-Aprendendo branches e PRs
+# Teste Git Workflow
+
+## Pessoas
+
+- João
+- Maria
+- Pedro
